@@ -1,0 +1,6 @@
+framework module Pods_GoogleMapsIntegration_GoogleMapsIntegrationUITests {
+  umbrella header "Pods-GoogleMapsIntegration-GoogleMapsIntegrationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
